@@ -1,4 +1,3 @@
-# NOTE: Do not modify.
 from __future__ import absolute_import, division, print_function
 import sys, time, math, random, os, argparse
 from game import Game
